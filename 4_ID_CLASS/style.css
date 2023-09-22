@@ -1,3 +1,4 @@
+
 h2{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: violet;
@@ -17,5 +18,14 @@ p{
 }
 
 .fundo-verde{
-    background: rgb(41, 21, 41);
+    background: rgb(90, 28, 88);
+}
+
+.fonte-grande{
+    font-size: 50px;
+}
+
+#main-title{
+    background: rgb(90, 28, 88);
+    color: violet;
 }
